@@ -1,0 +1,3 @@
+30-Aug-20 22:03:42 - [Info] : Temperature2 Reporting Enabled
+30-Aug-20 22:03:43 - [Info] : Temperature2 Reporting Disabled
+30-Aug-20 22:03:44 - [Info] : Temperature1 Reporting Enabled

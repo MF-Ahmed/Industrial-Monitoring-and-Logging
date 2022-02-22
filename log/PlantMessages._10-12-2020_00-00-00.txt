@@ -1,0 +1,76 @@
+10-Dec-20 12:02:59 - [Status] : Heater1 OFF
+10-Dec-20 12:03:00 - [Status] : Heater2 OFF
+10-Dec-20 12:03:00 - [Status] : Pump1 OFF
+10-Dec-20 12:03:00 - [Status] : Pump2 OFF
+10-Dec-20 12:03:04 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:03:06 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:03:14 - [Info] : Temperature2 Reporting Enabled
+10-Dec-20 12:03:14 - [Status] : Temperature2 is at Normal
+10-Dec-20 12:03:15 - [Info] : Temperature1 Reporting Enabled
+10-Dec-20 12:03:16 - [Status] : Temperature1 is at Normal
+10-Dec-20 12:03:20 - [Info] : Temperature1 Reporting Disabled
+10-Dec-20 12:03:21 - [Info] : Temperature2 Reporting Disabled
+10-Dec-20 12:25:33 - [Status] : Heater1 OFF
+10-Dec-20 12:25:33 - [Status] : Heater2 OFF
+10-Dec-20 12:25:34 - [Status] : Pump1 OFF
+10-Dec-20 12:25:34 - [Status] : Pump2 OFF
+10-Dec-20 12:25:36 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:25:37 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:41:00 - [Status] : Heater1 OFF
+10-Dec-20 12:41:00 - [Status] : Heater2 OFF
+10-Dec-20 12:41:00 - [Status] : Pump1 OFF
+10-Dec-20 12:41:01 - [Status] : Pump2 OFF
+10-Dec-20 12:41:02 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:41:03 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:41:05 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:41:09 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:41:10 - [CMD] : Pressure2 Limits Read
+10-Dec-20 12:42:47 - [Status] : Heater1 OFF
+10-Dec-20 12:42:48 - [Status] : Heater2 OFF
+10-Dec-20 12:42:48 - [Status] : Pump1 OFF
+10-Dec-20 12:42:48 - [Status] : Pump2 OFF
+10-Dec-20 12:42:50 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:42:51 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:42:52 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:42:55 - [CMD] : Pressure2 Limits Read
+10-Dec-20 12:43:08 - [CMD] : Pressure2 Limits Read
+10-Dec-20 12:44:59 - [Status] : Heater1 OFF
+10-Dec-20 12:44:59 - [Status] : Heater2 OFF
+10-Dec-20 12:45:00 - [Status] : Pump1 OFF
+10-Dec-20 12:45:00 - [Status] : Pump2 OFF
+10-Dec-20 12:45:00 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:45:02 - [CMD] : Pressure2 Limits Read
+10-Dec-20 12:47:05 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:47:05 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:47:06 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:47:07 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:47:07 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:47:07 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:48:52 - [Status] : Heater1 OFF
+10-Dec-20 12:48:52 - [Status] : Heater2 OFF
+10-Dec-20 12:48:53 - [Status] : Pump1 OFF
+10-Dec-20 12:48:53 - [Status] : Pump2 OFF
+10-Dec-20 12:48:54 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:48:57 - [CMD] : Pressure2 Limits Read
+10-Dec-20 12:49:01 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:49:01 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:53:03 - [Status] : Heater1 OFF
+10-Dec-20 12:53:03 - [Status] : Heater2 OFF
+10-Dec-20 12:53:04 - [Status] : Pump1 OFF
+10-Dec-20 12:53:04 - [Status] : Pump2 OFF
+10-Dec-20 12:53:05 - [CMD] : Temperature1 Limits Read
+10-Dec-20 12:53:06 - [CMD] : Temperature2 Limits Read
+10-Dec-20 12:53:07 - [CMD] : Pressure1 Limits Read
+10-Dec-20 12:53:07 - [CMD] : Pressure2 Limits Read
+10-Dec-20 13:04:33 - [Status] : Heater1 OFF
+10-Dec-20 13:04:33 - [Status] : Heater2 OFF
+10-Dec-20 13:04:34 - [Status] : Pump1 OFF
+10-Dec-20 13:04:34 - [Status] : Pump2 OFF
+10-Dec-20 13:20:56 - [Status] : Heater1 OFF
+10-Dec-20 13:20:57 - [Status] : Heater2 OFF
+10-Dec-20 13:20:57 - [Status] : Pump1 OFF
+10-Dec-20 13:20:57 - [Status] : Pump2 OFF
+10-Dec-20 13:20:59 - [CMD] : Temperature1 Limits Read
+10-Dec-20 13:21:00 - [CMD] : Temperature2 Limits Read
+10-Dec-20 13:21:01 - [CMD] : Pressure1 Limits Read
+10-Dec-20 13:21:03 - [CMD] : Pressure2 Limits Read

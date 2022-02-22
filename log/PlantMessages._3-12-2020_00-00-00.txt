@@ -1,0 +1,171 @@
+03-Dec-20 11:45:17 - [Status] : Heater1 OFF
+03-Dec-20 11:45:18 - [Status] : Heater2 OFF
+03-Dec-20 11:45:18 - [Status] : Pump1 OFF
+03-Dec-20 11:45:18 - [Status] : Pump2 OFF
+03-Dec-20 11:46:04 - [CMD] : Temperature1 Limits Read
+03-Dec-20 11:46:05 - [CMD] : Temperature2 Limits Read
+03-Dec-20 11:46:06 - [CMD] : Pressure1 Limits Read
+03-Dec-20 11:46:07 - [CMD] : Pressure2 Limits Read
+03-Dec-20 11:46:23 - [Info] : Temperature1 Reporting Enabled
+03-Dec-20 11:46:23 - [Status] : Temperature1 is at Action
+03-Dec-20 11:46:24 - [Info] : Temperature2 Reporting Enabled
+03-Dec-20 11:46:24 - [Status] : Temperature2 is at Action
+03-Dec-20 11:46:25 - [Info] : Pressure1 Reporting Enabled
+03-Dec-20 11:46:26 - [Status] : Pressure1 is at Normal
+03-Dec-20 11:46:26 - [Info] : Pressure2 Reporting Enabled
+03-Dec-20 11:46:26 - [Status] : Pressure2 is at Normal
+03-Dec-20 11:46:32 - [Status] : Temperature1 is at Normal
+03-Dec-20 11:46:41 - [Status] : Temperature1 is at Warning
+03-Dec-20 11:47:03 - [CMD] : Temperature2 Limits Updated
+03-Dec-20 11:47:09 - [CMD] : Temperature2 Limits Read
+03-Dec-20 12:02:34 - [Status] : Heater1 OFF
+03-Dec-20 12:02:35 - [Status] : Heater2 OFF
+03-Dec-20 12:02:35 - [Status] : Pump1 OFF
+03-Dec-20 12:02:35 - [Status] : Pump2 OFF
+03-Dec-20 12:02:44 - [Info] : Temperature1 Reporting Enabled
+03-Dec-20 12:03:24 - [Status] : Heater1 OFF
+03-Dec-20 12:03:25 - [Status] : Heater2 OFF
+03-Dec-20 12:03:25 - [Status] : Pump1 OFF
+03-Dec-20 12:03:25 - [Status] : Pump2 OFF
+03-Dec-20 12:06:09 - [Status] : Heater1 OFF
+03-Dec-20 12:06:10 - [Status] : Heater2 OFF
+03-Dec-20 12:06:10 - [Status] : Pump1 OFF
+03-Dec-20 12:06:10 - [Status] : Pump2 OFF
+03-Dec-20 12:10:36 - [Status] : Heater1 OFF
+03-Dec-20 12:10:36 - [Status] : Heater2 OFF
+03-Dec-20 12:10:36 - [Status] : Pump1 OFF
+03-Dec-20 12:10:36 - [Status] : Pump2 OFF
+03-Dec-20 12:19:49 - [Status] : Heater1 OFF
+03-Dec-20 12:19:49 - [Status] : Heater2 OFF
+03-Dec-20 12:19:50 - [Status] : Pump1 OFF
+03-Dec-20 12:19:50 - [Status] : Pump2 OFF
+03-Dec-20 12:19:57 - [Info] : Temperature1 Reporting Enabled
+03-Dec-20 12:20:01 - [Info] : Temperature2 Reporting Enabled
+03-Dec-20 12:21:27 - [Status] : Heater1 OFF
+03-Dec-20 12:21:27 - [Status] : Heater2 OFF
+03-Dec-20 12:21:28 - [Status] : Pump1 OFF
+03-Dec-20 12:21:28 - [Status] : Pump2 OFF
+03-Dec-20 12:21:30 - [Info] : Temperature2 Reporting Enabled
+03-Dec-20 12:21:30 - [Status] : Temperature2 is at Warning
+03-Dec-20 12:21:31 - [Info] : Pressure2 Reporting Enabled
+03-Dec-20 12:21:32 - [Status] : Pressure2 is at Normal
+03-Dec-20 12:21:32 - [Info] : Pressure1 Reporting Enabled
+03-Dec-20 12:21:33 - [Status] : Pressure1 is at Action
+03-Dec-20 12:21:38 - [CMD] : Temperature1 Limits Read
+03-Dec-20 12:21:39 - [CMD] : Temperature2 Limits Read
+03-Dec-20 12:21:40 - [CMD] : Pressure1 Limits Read
+03-Dec-20 12:21:40 - [CMD] : Pressure2 Limits Read
+03-Dec-20 12:21:50 - [CMD] : Heater1 ON
+03-Dec-20 12:21:50 - [Status] : Heater1 ON
+03-Dec-20 12:23:36 - [Info] : Temperature1 Reporting Enabled
+03-Dec-20 12:31:58 - [Status] : Heater1 OFF
+03-Dec-20 12:31:58 - [Status] : Heater2 OFF
+03-Dec-20 12:31:59 - [Status] : Pump1 OFF
+03-Dec-20 12:31:59 - [Status] : Pump2 OFF
+03-Dec-20 12:50:29 - [Status] : Heater1 OFF
+03-Dec-20 12:50:30 - [Status] : Heater2 OFF
+03-Dec-20 12:50:30 - [Status] : Pump1 OFF
+03-Dec-20 12:50:30 - [Status] : Pump2 OFF
+03-Dec-20 12:55:48 - [Status] : Heater1 OFF
+03-Dec-20 12:55:48 - [Status] : Heater2 OFF
+03-Dec-20 12:55:49 - [Status] : Pump1 OFF
+03-Dec-20 12:55:49 - [Status] : Pump2 OFF
+03-Dec-20 12:58:21 - [Status] : Heater1 OFF
+03-Dec-20 12:58:22 - [Status] : Heater2 OFF
+03-Dec-20 12:58:22 - [Status] : Pump1 OFF
+03-Dec-20 12:58:22 - [Status] : Pump2 OFF
+03-Dec-20 13:03:10 - [Status] : Heater1 OFF
+03-Dec-20 13:03:11 - [Status] : Heater2 OFF
+03-Dec-20 13:03:11 - [Status] : Pump1 OFF
+03-Dec-20 13:03:11 - [Status] : Pump2 OFF
+03-Dec-20 13:28:02 - [Status] : Heater1 OFF
+03-Dec-20 13:28:03 - [Status] : Heater2 OFF
+03-Dec-20 13:28:03 - [Status] : Pump1 OFF
+03-Dec-20 13:28:03 - [Status] : Pump2 OFF
+03-Dec-20 13:28:28 - [Info] : Temperature2 Reporting Enabled
+03-Dec-20 13:28:28 - [Status] : Temperature2 is at Normal
+03-Dec-20 13:28:29 - [Info] : Temperature1 Reporting Enabled
+03-Dec-20 13:28:30 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:28:46 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:28:47 - [Status] : Temperature2 is at Warning
+03-Dec-20 13:28:52 - [Status] : Temperature2 is at Normal
+03-Dec-20 13:28:53 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:28:57 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:28:59 - [Status] : Temperature2 is at Warning
+03-Dec-20 13:29:00 - [Status] : Temperature1 is at Action
+03-Dec-20 13:29:01 - [Status] : Temperature2 is at Action
+03-Dec-20 13:29:03 - [Status] : Temperature2 is at Warning
+03-Dec-20 13:29:04 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:29:05 - [Status] : Temperature2 is at Normal
+03-Dec-20 13:29:06 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:36:46 - [Status] : Heater1 OFF
+03-Dec-20 13:36:46 - [Status] : Heater2 OFF
+03-Dec-20 13:36:47 - [Status] : Pump1 OFF
+03-Dec-20 13:36:47 - [Status] : Pump2 OFF
+03-Dec-20 13:41:00 - [Status] : Heater1 OFF
+03-Dec-20 13:41:00 - [Status] : Heater2 OFF
+03-Dec-20 13:41:01 - [Status] : Pump1 OFF
+03-Dec-20 13:41:01 - [Status] : Pump2 OFF
+03-Dec-20 13:46:37 - [Status] : Heater1 OFF
+03-Dec-20 13:46:37 - [Status] : Heater2 OFF
+03-Dec-20 13:46:38 - [Status] : Pump1 OFF
+03-Dec-20 13:46:38 - [Status] : Pump2 OFF
+03-Dec-20 13:48:48 - [Status] : Heater1 OFF
+03-Dec-20 13:48:48 - [Status] : Heater2 OFF
+03-Dec-20 13:48:49 - [Status] : Pump1 OFF
+03-Dec-20 13:48:49 - [Status] : Pump2 OFF
+03-Dec-20 13:52:27 - [Status] : Heater1 OFF
+03-Dec-20 13:52:28 - [Status] : Heater2 OFF
+03-Dec-20 13:52:28 - [Status] : Pump1 OFF
+03-Dec-20 13:52:28 - [Status] : Pump2 OFF
+03-Dec-20 13:53:10 - [CMD] : Heater1 ON
+03-Dec-20 13:53:11 - [Status] : Heater1 ON
+03-Dec-20 13:53:12 - [CMD] : Heater2 ON
+03-Dec-20 13:53:13 - [Status] : Heater2 ON
+03-Dec-20 13:53:14 - [CMD] : Pump1 ON
+03-Dec-20 13:53:14 - [Status] : Pump1 ON
+03-Dec-20 13:53:15 - [CMD] : Pump2 ON
+03-Dec-20 13:53:17 - [Status] : Pump2 ON
+03-Dec-20 13:53:26 - [CMD] : Heater1 OFF
+03-Dec-20 13:53:27 - [Status] : Heater1 OFF
+03-Dec-20 13:53:27 - [CMD] : Heater2 OFF
+03-Dec-20 13:53:28 - [Status] : Heater2 OFF
+03-Dec-20 13:53:29 - [CMD] : Pump1 OFF
+03-Dec-20 13:53:30 - [Status] : Pump1 OFF
+03-Dec-20 13:53:30 - [CMD] : Pump2 OFF
+03-Dec-20 13:53:31 - [Status] : Pump2 OFF
+03-Dec-20 13:53:37 - [Info] : Temperature1 Reporting Enabled
+03-Dec-20 13:53:38 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:53:39 - [Info] : Temperature2 Reporting Enabled
+03-Dec-20 13:53:39 - [Status] : Temperature2 is at Normal
+03-Dec-20 13:54:05 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:08 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:09 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:09 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:09 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:13 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:14 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:15 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:15 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:19 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:19 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:20 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:20 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:20 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:20 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:20 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:20 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:26 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:27 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:27 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:27 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:28 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:28 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:28 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:29 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:29 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:29 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:30 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:30 - [Status] : Temperature1 is at Warning
+03-Dec-20 13:54:30 - [Status] : Temperature1 is at Normal
+03-Dec-20 13:54:30 - [Status] : Temperature1 is at Warning

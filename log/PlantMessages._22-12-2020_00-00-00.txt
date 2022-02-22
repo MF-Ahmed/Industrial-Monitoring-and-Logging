@@ -1,0 +1,26 @@
+22-Dec-20 13:35:46 - [Status] : Heater1 OFF
+22-Dec-20 13:35:47 - [Status] : Heater2 OFF
+22-Dec-20 13:35:47 - [Status] : Pump1 OFF
+22-Dec-20 13:35:47 - [Status] : Pump2 OFF
+22-Dec-20 13:35:52 - [CMD] : Temperature1 Limits Read
+22-Dec-20 13:35:53 - [CMD] : Temperature2 Limits Read
+22-Dec-20 13:35:54 - [CMD] : Pressure1 Limits Read
+22-Dec-20 13:35:56 - [CMD] : Pressure2 Limits Read
+22-Dec-20 13:36:05 - [Info] : Temperature1 Reporting Enabled
+22-Dec-20 13:36:05 - [Status] : Temperature1 is at Warning
+22-Dec-20 13:36:06 - [Info] : Temperature2 Reporting Enabled
+22-Dec-20 13:36:07 - [Status] : Temperature2 is at Warning
+22-Dec-20 13:36:08 - [Info] : Pressure1 Reporting Enabled
+22-Dec-20 13:36:08 - [Status] : Pressure1 is at Warning
+22-Dec-20 13:36:09 - [Info] : Pressure2 Reporting Enabled
+22-Dec-20 13:36:09 - [Status] : Pressure2 is at Warning
+22-Dec-20 13:36:19 - [CMD] : Heater1 ON
+22-Dec-20 13:36:20 - [Status] : Heater1 ON
+22-Dec-20 13:36:21 - [CMD] : Heater2 ON
+22-Dec-20 13:36:22 - [Status] : Heater2 ON
+22-Dec-20 13:36:25 - [CMD] : Pump1 ON
+22-Dec-20 13:36:26 - [Status] : Pump1 ON
+22-Dec-20 13:36:31 - [CMD] : Pump1 OFF
+22-Dec-20 13:36:32 - [Status] : Pump1 OFF
+22-Dec-20 13:36:39 - [CMD] : Temperature1 Limits Updated
+22-Dec-20 13:36:41 - [CMD] : Temperature1 Limits Read

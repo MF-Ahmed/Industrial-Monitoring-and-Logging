@@ -1,0 +1,8 @@
+04-Jan-21 13:41:53 - [Status] : Heater1 OFF
+04-Jan-21 13:41:53 - [Status] : Heater2 OFF
+04-Jan-21 13:41:54 - [Status] : Pump1 OFF
+04-Jan-21 13:41:54 - [Status] : Pump2 OFF
+04-Jan-21 13:41:57 - [CMD] : Temperature1 Limits Read
+04-Jan-21 13:41:59 - [CMD] : Temperature2 Limits Read
+04-Jan-21 13:42:00 - [CMD] : Pressure1 Limits Read
+04-Jan-21 13:42:01 - [CMD] : Pressure2 Limits Read

@@ -1,0 +1,17 @@
+01-Dec-20 09:18:49 - [Status] : Heater1 OFF
+01-Dec-20 09:18:49 - [Status] : Heater2 OFF
+01-Dec-20 09:18:50 - [Status] : Pump1 OFF
+01-Dec-20 09:18:51 - [Status] : Pump2 OFF
+01-Dec-20 09:19:15 - [Info] : Temperature2 Reporting Enabled
+01-Dec-20 09:19:16 - [Info] : Temperature1 Reporting Enabled
+01-Dec-20 09:19:17 - [Info] : Pressure1 Reporting Enabled
+01-Dec-20 09:19:18 - [Info] : Pressure2 Reporting Enabled
+01-Dec-20 09:19:19 - [Info] : Pressure2 Reporting Disabled
+01-Dec-20 09:19:20 - [Info] : Pressure2 Reporting Disabled
+01-Dec-20 09:19:21 - [Info] : Temperature1 Reporting Disabled
+01-Dec-20 09:19:22 - [Info] : Temperature2 Reporting Disabled
+01-Dec-20 09:19:55 - [CMD] : Attemped to Read limits prior to Open the serial port
+01-Dec-20 13:43:16 - [Status] : Heater1 OFF
+01-Dec-20 13:43:17 - [Status] : Heater2 OFF
+01-Dec-20 13:43:18 - [Status] : Pump1 OFF
+01-Dec-20 13:43:18 - [Status] : Pump2 OFF
