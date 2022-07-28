@@ -24,6 +24,9 @@ An in-depth paragraph about your project and overview of use.
 ```
 code blocks for commands
 ```
+### Screenshot
+![](https://github.com/MF-Ahmed/Industrial-Process-Monitoring-and-Logging/blob/main/Screenshots/Screenshot_1.bmp)
+
 
 ## Help
 
